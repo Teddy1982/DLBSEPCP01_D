@@ -1,0 +1,7 @@
+{
+  "TemplateFile": "template.yaml",
+  "Parameters": {
+    "KeyName": "portfolio-key-pair",
+    "GitRepoURL": "https://github.com/Teddy1982/DLBSEPCP01_D.git"
+  }
+}
