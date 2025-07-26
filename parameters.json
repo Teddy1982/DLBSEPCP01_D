@@ -1,0 +1,8 @@
+[
+  { "ParameterKey": "KeyName", "ParameterValue": "portfolio-key-pair" },
+  { "ParameterKey": "DomainName", "ParameterValue": "eduardtoews.com" },
+  { "ParameterKey": "EmailAddress", "ParameterValue": "e.toews@freenet.de" },
+  { "ParameterKey": "HostedZoneId", "ParameterValue": "Z05261601FCJ1U9LF0FKW" },
+  { "ParameterKey": "SSHAccessCidr", "ParameterValue": "88.130.155.153/32" },
+  { "ParameterKey": "ImageId", "ParameterValue": "ami-0779caf41f9ba54f0" }
+]
